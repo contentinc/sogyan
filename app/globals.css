@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --primary: #4a90e2;
+}
+
+.font-serif {
+  font-family: var(--font-playfair);
+}
+
